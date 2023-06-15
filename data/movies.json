@@ -1,0 +1,2252 @@
+[
+  {
+    "id": 1,
+    "title": "肖申克的救赎 / The Shawshank Redemption",
+    "star": "9.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg",
+    "intro": "希望让人自由。",
+    "actors": "导演:弗兰克·德拉邦特FrankDarabont主演:蒂姆·罗宾斯TimRobbins/...",
+    "detail": "1994/美国/犯罪剧情"
+  },
+  {
+    "id": 2,
+    "title": "霸王别姬",
+    "star": "9.6",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.jpg",
+    "intro": "风华绝代。",
+    "actors": "导演:陈凯歌KaigeChen主演:张国荣LeslieCheung/张丰毅FengyiZha...",
+    "detail": "1993/中国大陆中国香港/剧情爱情同性"
+  },
+  {
+    "id": 3,
+    "title": "阿甘正传 / Forrest Gump",
+    "star": "9.5",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2372307693.jpg",
+    "intro": "一部美国近现代史。",
+    "actors": "导演:罗伯特·泽米吉斯RobertZemeckis主演:汤姆·汉克斯TomHanks/...",
+    "detail": "1994/美国/剧情爱情"
+  },
+  {
+    "id": 4,
+    "title": "泰坦尼克号 / Titanic",
+    "star": "9.5",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2889314814.jpg",
+    "intro": "失去的才是永恒的。 ",
+    "actors": "导演:詹姆斯·卡梅隆JamesCameron主演:莱昂纳多·迪卡普里奥Leonardo...",
+    "detail": "1997/美国墨西哥/剧情爱情灾难"
+  },
+  {
+    "id": 5,
+    "title": "这个杀手不太冷 / Léon",
+    "star": "9.4",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p511118051.jpg",
+    "intro": "怪蜀黍和小萝莉不得不说的故事。",
+    "actors": "导演:吕克·贝松LucBesson主演:让·雷诺JeanReno/娜塔莉·波特曼...",
+    "detail": "1994/法国美国/剧情动作犯罪"
+  },
+  {
+    "id": 6,
+    "title": "千与千寻 / 千と千尋の神隠し",
+    "star": "9.4",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557573348.jpg",
+    "intro": "最好的宫崎骏，最好的久石让。 ",
+    "actors": "导演:宫崎骏HayaoMiyazaki主演:柊瑠美RumiHîragi/入野自由Miy...",
+    "detail": "2001/日本/剧情动画奇幻"
+  },
+  {
+    "id": 7,
+    "title": "美丽人生 / La vita è bella",
+    "star": "9.6",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2578474613.jpg",
+    "intro": "最美的谎言。",
+    "actors": "导演:罗伯托·贝尼尼RobertoBenigni主演:罗伯托·贝尼尼RobertoBeni...",
+    "detail": "1997/意大利/剧情喜剧爱情战争"
+  },
+  {
+    "id": 8,
+    "title": "辛德勒的名单 / Schindler's List",
+    "star": "9.6",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg",
+    "intro": "拯救一个人，就是拯救整个世界。",
+    "actors": "导演:史蒂文·斯皮尔伯格StevenSpielberg主演:连姆·尼森LiamNeeson...",
+    "detail": "1993/美国/剧情历史战争"
+  },
+  {
+    "id": 9,
+    "title": "星际穿越 / Interstellar",
+    "star": "9.4",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.jpg",
+    "intro": "爱是一种力量，让我们超越时空感知它的存在。",
+    "actors": "导演:克里斯托弗·诺兰ChristopherNolan主演:马修·麦康纳MatthewMc...",
+    "detail": "2014/美国英国加拿大/剧情科幻冒险"
+  },
+  {
+    "id": 10,
+    "title": "盗梦空间 / Inception",
+    "star": "9.4",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg",
+    "intro": "诺兰给了我们一场无法盗取的梦。",
+    "actors": "导演:克里斯托弗·诺兰ChristopherNolan主演:莱昂纳多·迪卡普里奥Le...",
+    "detail": "2010/美国英国/剧情科幻悬疑冒险"
+  },
+  {
+    "id": 11,
+    "title": "楚门的世界 / The Truman Show",
+    "star": "9.4",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p479682972.jpg",
+    "intro": "如果再也不能见到你，祝你早安，午安，晚安。",
+    "actors": "导演:彼得·威尔PeterWeir主演:金·凯瑞JimCarrey/劳拉·琳妮Lau...",
+    "detail": "1998/美国/剧情科幻"
+  },
+  {
+    "id": 12,
+    "title": "忠犬八公的故事 / Hachi: A Dog's Tale",
+    "star": "9.4",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2587099240.jpg",
+    "intro": "永远都不能忘记你所爱的人。",
+    "actors": "导演:莱塞·霍尔斯道姆LasseHallström主演:理查·基尔RichardGer...",
+    "detail": "2009/美国英国/剧情"
+  },
+  {
+    "id": 13,
+    "title": "海上钢琴师 / La leggenda del pianista sull'oceano",
+    "star": "9.3",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574551676.jpg",
+    "intro": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ",
+    "actors": "导演:朱塞佩·托纳多雷GiuseppeTornatore主演:蒂姆·罗斯TimRoth/...",
+    "detail": "1998/意大利/剧情音乐"
+  },
+  {
+    "id": 14,
+    "title": "三傻大闹宝莱坞 / 3 Idiots",
+    "star": "9.2",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg",
+    "intro": "英俊版憨豆，高情商版谢耳朵。",
+    "actors": "导演:拉库马·希拉尼RajkumarHirani主演:阿米尔·汗AamirKhan/卡...",
+    "detail": "2009/印度/剧情喜剧爱情歌舞"
+  },
+  {
+    "id": 15,
+    "title": "放牛班的春天 / Les choristes",
+    "star": "9.3",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2884280708.jpg",
+    "intro": "天籁一般的童声，是最接近上帝的存在。 ",
+    "actors": "导演:克里斯托夫·巴拉蒂ChristopheBarratier主演:让-巴蒂斯特·莫尼...",
+    "detail": "2004/法国瑞士德国/剧情音乐"
+  },
+  {
+    "id": 16,
+    "title": "机器人总动员 / WALL·E",
+    "star": "9.3",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg",
+    "intro": "小瓦力，大人生。",
+    "actors": "导演:安德鲁·斯坦顿AndrewStanton主演:本·贝尔特BenBurtt/艾丽...",
+    "detail": "2008/美国/科幻动画冒险"
+  },
+  {
+    "id": 17,
+    "title": "无间道 / 無間道",
+    "star": "9.3",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2564556863.jpg",
+    "intro": "香港电影史上永不过时的杰作。",
+    "actors": "导演:刘伟强/麦兆辉主演:刘德华AndyLau/梁朝伟TonyLeungChiuW...",
+    "detail": "2002/中国香港/剧情犯罪惊悚"
+  },
+  {
+    "id": 18,
+    "title": "疯狂动物城 / Zootopia",
+    "star": "9.2",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614500649.jpg",
+    "intro": "迪士尼给我们营造的乌托邦就是这样，永远善良勇敢，永远出乎意料。",
+    "actors": "导演:拜伦·霍华德ByronHoward/瑞奇·摩尔RichMoore主演:金妮弗·...",
+    "detail": "2016/美国/喜剧动画冒险"
+  },
+  {
+    "id": 19,
+    "title": "控方证人 / Witness for the Prosecution",
+    "star": "9.6",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1505392928.jpg",
+    "intro": "比利·怀德满分作品。",
+    "actors": "导演:比利·怀尔德BillyWilder主演:泰隆·鲍华TyronePower/玛琳·...",
+    "detail": "1957/美国/剧情犯罪悬疑"
+  },
+  {
+    "id": 20,
+    "title": "大话西游之大圣娶亲 / 西遊記大結局之仙履奇緣",
+    "star": "9.2",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg",
+    "intro": "一生所爱。",
+    "actors": "导演:刘镇伟JeffreyLau主演:周星驰StephenChow/吴孟达ManTatNg...",
+    "detail": "1995/中国香港中国大陆/喜剧爱情奇幻古装"
+  },
+  {
+    "id": 21,
+    "title": "熔炉 / 도가니",
+    "star": "9.4",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg",
+    "intro": "我们一路奋战不是为了改变世界，而是为了不让世界改变我们。",
+    "actors": "导演:黄东赫Dong-hyukHwang主演:孔侑YooGong/郑有美Yu-miJung/...",
+    "detail": "2011/韩国/剧情"
+  },
+  {
+    "id": 22,
+    "title": "教父 / The Godfather",
+    "star": "9.3",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.jpg",
+    "intro": "千万不要记恨你的对手，这样会让你失去理智。",
+    "actors": "导演:弗朗西斯·福特·科波拉FrancisFordCoppola主演:马龙·白兰度M...",
+    "detail": "1972/美国/剧情犯罪"
+  },
+  {
+    "id": 23,
+    "title": "触不可及 / Intouchables",
+    "star": "9.3",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg",
+    "intro": "满满温情的高雅喜剧。",
+    "actors": "导演:奥利维·那卡什OlivierNakache/艾力克·托兰达EricToledano主...",
+    "detail": "2011/法国/剧情喜剧"
+  },
+  {
+    "id": 24,
+    "title": "当幸福来敲门 / The Pursuit of Happyness",
+    "star": "9.2",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614359276.jpg",
+    "intro": "平民励志片。 ",
+    "actors": "导演:加布里尔·穆奇诺GabrieleMuccino主演:威尔·史密斯WillSmith...",
+    "detail": "2006/美国/剧情传记家庭"
+  },
+  {
+    "id": 25,
+    "title": "怦然心动 / Flipped",
+    "star": "9.1",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p501177648.jpg",
+    "intro": "真正的幸福是来自内心深处。",
+    "actors": "导演:罗伯·莱纳RobReiner主演:玛德琳·卡罗尔MadelineCarroll/卡...",
+    "detail": "2010/美国/剧情喜剧爱情"
+  },
+  {
+    "id": 26,
+    "title": "龙猫 / となりのトトロ",
+    "star": "9.2",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540924496.jpg",
+    "intro": "人人心中都有个龙猫，童年就永远不会消失。",
+    "actors": "导演:宫崎骏HayaoMiyazaki主演:日高法子NorikoHidaka/坂本千夏Ch...",
+    "detail": "1988/日本/动画奇幻冒险"
+  },
+  {
+    "id": 27,
+    "title": "末代皇帝 / The Last Emperor",
+    "star": "9.3",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p452089833.jpg",
+    "intro": "“不要跟我比惨，我比你更惨”再适合这部电影不过了。",
+    "actors": "导演:贝纳尔多·贝托鲁奇BernardoBertolucci主演:尊龙JohnLone/陈...",
+    "detail": "1987/英国意大利中国大陆法国/剧情传记历史"
+  },
+  {
+    "id": 28,
+    "title": "寻梦环游记 / Coco",
+    "star": "9.1",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614500706.jpg",
+    "intro": "���亡不是真的逝去，遗忘才是永恒的消亡。",
+    "actors": "导演:李·昂克里奇LeeUnkrich/阿德里安·莫利纳AdrianMolina主演:...",
+    "detail": "2017/美国/喜剧动画奇幻音乐"
+  },
+  {
+    "id": 29,
+    "title": "活着",
+    "star": "9.3",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2597919477.jpg",
+    "intro": "张艺谋最好的电影。",
+    "actors": "导演:张艺谋YimouZhang主演:葛优YouGe/巩俐LiGong/姜武WuJiang",
+    "detail": "1994/中国大陆中国香港/剧情历史家庭"
+  },
+  {
+    "id": 30,
+    "title": "蝙蝠侠：黑暗骑士 / The Dark Knight",
+    "star": "9.2",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p462657443.jpg",
+    "intro": "无尽的黑暗。",
+    "actors": "导演:克里斯托弗·诺兰ChristopherNolan主演:克里斯蒂安·贝尔Christ...",
+    "detail": "2008/美国英国/剧情动作科幻犯罪惊悚"
+  },
+  {
+    "id": 31,
+    "title": "哈利·波特与魔法石 / Harry Potter and the Sorcerer's Stone",
+    "star": "9.2",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614949805.jpg",
+    "intro": "童话世界的开端。",
+    "actors": "导演:ChrisColumbus主演:DanielRadcliffe/EmmaWatson/RupertGrint",
+    "detail": "2001/美国英国/奇幻冒险"
+  },
+  {
+    "id": 32,
+    "title": "指环王3：王者无敌 / The Lord of the Rings: The Return of the King",
+    "star": "9.3",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2642829472.jpg",
+    "intro": "史诗的终章。",
+    "actors": "导演:彼得·杰克逊PeterJackson主演:伊利亚·伍德ElijahWood/西恩...",
+    "detail": "2003/美国新西兰/剧情动作奇幻冒险"
+  },
+  {
+    "id": 33,
+    "title": "乱世佳人 / Gone with the Wind",
+    "star": "9.3",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg",
+    "intro": "Tomorrow is another day.",
+    "actors": "导演:维克多·弗莱明VictorFleming/乔治·库克GeorgeCukor主演:费...",
+    "detail": "1939/美国/剧情历史爱情战争"
+  },
+  {
+    "id": 34,
+    "title": "我不是药神",
+    "star": "9.0",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561305376.jpg",
+    "intro": "对我们国家而言，这样的电影多一部是一部。",
+    "actors": "导演:文牧野MuyeWen主演:徐峥ZhengXu/王传君ChuanjunWang/周...",
+    "detail": "2018/中国大陆/剧情喜剧"
+  },
+  {
+    "id": 35,
+    "title": "飞屋环游记 / Up",
+    "star": "9.1",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2363116942.jpg",
+    "intro": "最后那些最无聊的事情，才是最值得怀念的。 ",
+    "actors": "导演:彼特·道格特PeteDocter/鲍勃·彼德森BobPeterson主演:爱德...",
+    "detail": "2009/美国/剧情喜剧动画冒险"
+  },
+  {
+    "id": 36,
+    "title": "素媛 / 소원",
+    "star": "9.3",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg",
+    "intro": "受过伤害的人总是笑得最开心，因为他们不愿意让身边的人承受一样的痛苦。",
+    "actors": "导演:李濬益Jun-ikLee主演:薛景求Kyung-guSol/严志媛Ji-wonUhm...",
+    "detail": "2013/韩国/剧情"
+  },
+  {
+    "id": 37,
+    "title": "哈尔的移动城堡 / ハウルの動く城",
+    "star": "9.1",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2174346180.jpg",
+    "intro": "带着心爱的人在天空飞翔。",
+    "actors": "导演:宫崎骏HayaoMiyazaki主演:倍赏千惠子ChiekoBaishô/木村拓...",
+    "detail": "2004/日本/动画奇幻冒险"
+  },
+  {
+    "id": 38,
+    "title": "十二怒汉 / 12 Angry Men",
+    "star": "9.4",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.jpg",
+    "intro": "1957年的理想主义。 ",
+    "actors": "导演:SidneyLumet主演:亨利·方达HenryFonda/马丁·鲍尔萨姆Marti...",
+    "detail": "1957/美国/剧情"
+  },
+  {
+    "id": 39,
+    "title": "何以为家 / كفرناحوم",
+    "star": "9.1",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555295759.jpg",
+    "intro": "凝视卑弱生命，用电影改变命运。",
+    "actors": "导演:娜丁·拉巴基NadineLabaki主演:扎因·拉费阿Zainal-Rafeea/...",
+    "detail": "2018/黎巴嫩美国法国塞浦路斯卡塔尔英国/剧情"
+  },
+  {
+    "id": 40,
+    "title": "摔跤吧！爸爸 / Dangal",
+    "star": "9.0",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2401676338.jpg",
+    "intro": "你不是在为你一个人战斗，你要让千千万万的女性看到女生并不是只能相夫教子。",
+    "actors": "导演:涅提·蒂瓦里NiteshTiwari主演:阿米尔·汗AamirKhan/法缇玛...",
+    "detail": "2016/印度/剧情传记运动家庭"
+  },
+  {
+    "id": 41,
+    "title": "让子弹飞",
+    "star": "9.0",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg",
+    "intro": "你给我翻译翻译，神马叫做TMD的惊喜。",
+    "actors": "导演:姜文WenJiang主演:姜文WenJiang/葛优YouGe/周润发Yun-F...",
+    "detail": "2010/中国大陆中国香港/剧情喜剧动作西部"
+  },
+  {
+    "id": 42,
+    "title": "鬼子来了",
+    "star": "9.3",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553104888.jpg",
+    "intro": "对敌人的仁慈，就是对自己残忍。",
+    "actors": "导演:姜文WenJiang主演:姜文WenJiang/香川照之TeruyukiKagawa/...",
+    "detail": "2000/中国大陆/剧情喜剧"
+  },
+  {
+    "id": 43,
+    "title": "猫鼠游戏 / Catch Me If You Can",
+    "star": "9.1",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p453924541.jpg",
+    "intro": "骗子大师和执著警探的你追我跑故事。 ",
+    "actors": "导演:史蒂文·斯皮尔伯格StevenSpielberg主演:莱昂纳多·迪卡普里奥L...",
+    "detail": "2002/美国加拿大/传记犯罪剧情"
+  },
+  {
+    "id": 44,
+    "title": "少年派的奇幻漂流 / Life of Pi",
+    "star": "9.1",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1784592701.jpg",
+    "intro": "瑰丽壮观、无人能及的冒险之旅。",
+    "actors": "导演:李安AngLee主演:苏拉·沙玛SurajSharma/伊尔凡·可汗Irrfan...",
+    "detail": "2012/美国中国台湾英国加拿大/剧情奇幻冒险"
+  },
+  {
+    "id": 45,
+    "title": "天空之城 / 天空の城ラピュタ",
+    "star": "9.2",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg",
+    "intro": "对天空的追逐，永不停止。 ",
+    "actors": "导演:宫崎骏HayaoMiyazaki主演:田中真弓MayumiTanaka/横泽启子Ke...",
+    "detail": "1986/日本/动画奇幻冒险"
+  },
+  {
+    "id": 46,
+    "title": "海蒂和爷爷 / Heidi",
+    "star": "9.3",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554525534.jpg",
+    "intro": "如果生活中有什么使你感到快乐，那就去做吧！不要管别人说什么。",
+    "actors": "导演:阿兰·葛斯彭纳AlainGsponer主演:阿努克·斯特芬AnukSteffen/...",
+    "detail": "2015/德国瑞士/剧情冒险家庭"
+  },
+  {
+    "id": 47,
+    "title": "钢琴家 / The Pianist",
+    "star": "9.3",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1381339291.jpg",
+    "intro": "音乐能化解仇恨。",
+    "actors": "导演:罗曼·波兰斯基RomanPolanski主演:艾德里安·布洛迪AdrienBrod...",
+    "detail": "2002/英国法国波兰德国/剧情传记战争音乐"
+  },
+  {
+    "id": 48,
+    "title": "大话西游之月光宝盒 / 西遊記第壹佰零壹回之月光寶盒",
+    "star": "9.0",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561721372.jpg",
+    "intro": "旷古烁今。",
+    "actors": "导演:刘镇伟JeffreyLau主演:周星驰StephenChow/吴孟达ManTatNg...",
+    "detail": "1995/中国香港中国大陆/喜剧爱情奇幻古装"
+  },
+  {
+    "id": 49,
+    "title": "指环王2：双塔奇兵 / The Lord of the Rings: The Two Towers",
+    "star": "9.2",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2640236255.jpg",
+    "intro": "承前启后的史诗篇章。",
+    "actors": "导演:彼得·杰克逊PeterJackson主演:伊利亚·伍德ElijahWood/西恩...",
+    "detail": "2002/美国新西兰/剧情动作奇幻冒险"
+  },
+  {
+    "id": 50,
+    "title": "闻香识女人 / Scent of a Woman",
+    "star": "9.1",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550757929.jpg",
+    "intro": "史上最美的探戈。",
+    "actors": "导演:马丁·布莱斯MartinBrest主演:阿尔·帕西诺AlPacino/克里斯...",
+    "detail": "1992/美国/剧情"
+  },
+  {
+    "id": 51,
+    "title": "罗马假日 / Roman Holiday",
+    "star": "9.1",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2189265085.jpg",
+    "intro": "爱情哪怕只有一天。",
+    "actors": "导演:威廉·惠勒WilliamWyler主演:奥黛丽·赫本AudreyHepburn/格...",
+    "detail": "1953/美国/喜剧剧情爱情"
+  },
+  {
+    "id": 52,
+    "title": "天堂电影院 / Nuovo Cinema Paradiso",
+    "star": "9.2",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2653054340.jpg",
+    "intro": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。",
+    "actors": "导演:朱塞佩·托纳多雷GiuseppeTornatore主演:菲利普·努瓦雷Philipp...",
+    "detail": "1988/意大利法国/剧情爱情"
+  },
+  {
+    "id": 53,
+    "title": "死亡诗社 / Dead Poets Society",
+    "star": "9.2",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575465690.jpg",
+    "intro": "当一个死水般的体制内出现一个活跃的变数时���所有的腐臭都站在了光明的对面。",
+    "actors": "导演:彼得·威尔PeterWeir主演:罗宾·威廉姆斯RobinWilliams/罗伯...",
+    "detail": "1989/美国/剧情"
+  },
+  {
+    "id": 54,
+    "title": "绿皮书 / Green Book",
+    "star": "8.9",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531065411.jpg",
+    "intro": "去除成见，需要勇气。",
+    "actors": "导演:彼得·法雷里PeterFarrelly主演:维果·莫腾森ViggoMortensen/...",
+    "detail": "2018/美国中国大陆/剧情喜剧传记音乐"
+  },
+  {
+    "id": 55,
+    "title": "大闹天宫",
+    "star": "9.4",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2184505167.jpg",
+    "intro": "经典之作，历久弥新。",
+    "actors": "导演:万籁鸣LaimingWan主演:邱岳峰YuefengQiu/富润生RunshengFu...",
+    "detail": "1961(中国大陆)/1964(中国大陆)/1978(中国大陆)/中国大陆/剧情动画奇幻古装"
+  },
+  {
+    "id": 56,
+    "title": "指环王1：护戒使者 / The Lord of the Rings: The Fellowship of the Ring",
+    "star": "9.1",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2197698335.jpg",
+    "intro": "传说的开始。",
+    "actors": "导演:彼得·杰克逊PeterJackson主演:伊利亚·伍德ElijahWood/西恩...",
+    "detail": "2001/新西兰美国/剧情动作奇幻冒险"
+  },
+  {
+    "id": 57,
+    "title": "黑客帝国 / The Matrix",
+    "star": "9.1",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg",
+    "intro": "视觉革命。",
+    "actors": "导演:安迪·沃卓斯基AndyWachowski/拉娜·沃卓斯基LanaWachowski主...",
+    "detail": "1999/美国/动作科幻"
+  },
+  {
+    "id": 58,
+    "title": "教父2 / The Godfather: Part II",
+    "star": "9.3",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2194138787.jpg",
+    "intro": "优雅的孤独。",
+    "actors": "导演:弗朗西斯·福特·科波拉FrancisFordCoppola主演:阿尔·帕西诺A...",
+    "detail": "1974/美国/剧情犯罪"
+  },
+  {
+    "id": 59,
+    "title": "狮子王 / The Lion King",
+    "star": "9.1",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p726659067.jpg",
+    "intro": "动物版《哈姆雷特》。",
+    "actors": "导演:RogerAllers/罗伯·明可夫RobMinkoff主演:乔纳森·泰勒·托马...",
+    "detail": "1994/美国/动画冒险歌舞"
+  },
+  {
+    "id": 60,
+    "title": "辩护人 / 변호인",
+    "star": "9.2",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2158166535.jpg",
+    "intro": "电影的现实意义大过电影本身。",
+    "actors": "导演:杨宇硕Woo-seokYang主演:宋康昊Kang-hoSong/金英爱Yeong-ae...",
+    "detail": "2013/韩国/剧情"
+  },
+  {
+    "id": 61,
+    "title": "饮食男女 / 飲食男女",
+    "star": "9.2",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1910899751.jpg",
+    "intro": "人生不能像做菜，把所有的料都准备好了才下锅。",
+    "actors": "导演:李安AngLee主演:郎雄SihungLung/杨贵媚Kuei-MeiYang/吴...",
+    "detail": "1994/中国台湾美国/剧情家庭"
+  },
+  {
+    "id": 62,
+    "title": "搏击俱乐部 / Fight Club",
+    "star": "9.0",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1910931622.jpg",
+    "intro": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。",
+    "actors": "导演:大卫·芬奇DavidFincher主演:爱德华·诺顿EdwardNorton/布拉...",
+    "detail": "1999/美国/剧情动作悬疑惊悚"
+  },
+  {
+    "id": 63,
+    "title": "美丽心灵 / A Beautiful Mind",
+    "star": "9.1",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1665997400.jpg",
+    "intro": "爱是一切逻辑和原由。",
+    "actors": "导演:朗·霍华德RonHoward主演:罗素·克劳RussellCrowe/艾德·哈...",
+    "detail": "2001/美国/传记剧情"
+  },
+  {
+    "id": 64,
+    "title": "本杰明·巴顿奇事 / The Curious Case of Benjamin Button",
+    "star": "9.0",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2192535722.jpg",
+    "intro": "在时间之河里感受溺水之苦。",
+    "actors": "导演:大卫·芬奇DavidFincher主演:凯特·布兰切特CateBlanchett/...",
+    "detail": "2008/美国/剧情爱情奇幻"
+  },
+  {
+    "id": 65,
+    "title": "穿条纹睡衣的男孩 / The Boy in the Striped Pajamas",
+    "star": "9.2",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1473670352.jpg",
+    "intro": "尽管有些不切实际的幻想，这部电影依旧是一部感人肺腑的佳作。",
+    "actors": "导演:马克·赫尔曼MarkHerman主演:阿萨·巴特菲尔德AsaButterfield...",
+    "detail": "2008/英国美国/剧情战争"
+  },
+  {
+    "id": 66,
+    "title": "窃听风暴 / Das Leben der Anderen",
+    "star": "9.2",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1808872109.jpg",
+    "intro": "别样人生。",
+    "actors": "导演:弗洛里安·亨克尔·冯·多纳斯马尔克FlorianHenckelvonDonnersmarck&n...",
+    "detail": "2006/德国/剧情悬疑"
+  },
+  {
+    "id": 67,
+    "title": "情书 / Love Letter",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2648230660.jpg",
+    "intro": "暗恋的极致。",
+    "actors": "导演:岩井俊二ShunjiIwai主演:中山美穗MihoNakayama/丰川悦司Ets...",
+    "detail": "1995/日本/剧情爱情"
+  },
+  {
+    "id": 68,
+    "title": "两杆大烟枪 / Lock, Stock and Two Smoking Barrels",
+    "star": "9.1",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg",
+    "intro": "4个臭皮匠顶个诸葛亮，盖·里奇果然不是盖的。",
+    "actors": "导演:GuyRitchie主演:JasonFlemyng/DexterFletcher/NickMoran",
+    "detail": "1998/英国/剧情喜剧犯罪"
+  },
+  {
+    "id": 69,
+    "title": "西西里的美丽传说 / Malèna",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2441988159.jpg",
+    "intro": "美丽无罪。",
+    "actors": "导演:朱塞佩·托纳多雷GiuseppeTornatore主演:莫妮卡·贝鲁奇Monica...",
+    "detail": "2000/意大利美国/剧情战争情色"
+  },
+  {
+    "id": 70,
+    "title": "音乐之声 / The Sound of Music",
+    "star": "9.1",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453788577.jpg",
+    "intro": "用音���化解仇恨，让歌声串起美好。",
+    "actors": "导演:罗伯特·怀斯RobertWise主演:朱莉·安德鲁斯JulieAndrews/克...",
+    "detail": "1965/美国/剧情传记爱情歌舞"
+  },
+  {
+    "id": 71,
+    "title": "看不见的客人 / Contratiempo",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg",
+    "intro": "你以为你以为的就是你以为的。",
+    "actors": "导演:奥里奥尔·保罗OriolPaulo主演:马里奥·卡萨斯MarioCasas/阿...",
+    "detail": "2016/西班牙/剧情犯罪悬疑惊悚"
+  },
+  {
+    "id": 72,
+    "title": "阿凡达 / Avatar",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2180085848.jpg",
+    "intro": "绝对意义上的美轮美奂。",
+    "actors": "导演:詹姆斯·卡梅隆JamesCameron主演:萨姆·沃辛顿SamWorthington...",
+    "detail": "2009/美国/动作科幻冒险"
+  },
+  {
+    "id": 73,
+    "title": "拯救大兵瑞恩 / Saving Private Ryan",
+    "star": "9.1",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1014542496.jpg",
+    "intro": "美利坚精神输出大片No1.",
+    "actors": "导演:史蒂文·斯皮尔伯格StevenSpielberg主演:汤姆·汉克斯TomHanks...",
+    "detail": "1998/美国/剧情战争"
+  },
+  {
+    "id": 74,
+    "title": "小鞋子 / بچه های آسمان",
+    "star": "9.2",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2165511465.jpg",
+    "intro": "奔跑的孩子是天使。",
+    "actors": "导演:马基德·马基迪MajidMajidi主演:默罕默德·阿米尔·纳吉Mohamma...",
+    "detail": "1997/伊朗/剧情儿童家庭"
+  },
+  {
+    "id": 75,
+    "title": "飞越疯人院 / One Flew Over the Cuckoo's Nest",
+    "star": "9.1",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792238287.jpg",
+    "intro": "自由万岁。",
+    "actors": "导演:米洛斯·福尔曼MilošForman主演:杰克·尼科尔森JackNichols...",
+    "detail": "1975/美国/剧情"
+  },
+  {
+    "id": 76,
+    "title": "哈利·波特与死亡圣器(下) / Harry Potter and the Deathly Hallows: Part 2",
+    "star": "9.0",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p917846733.jpg",
+    "intro": "10年的完美句点。",
+    "actors": "导演:大卫·叶茨DavidYates主演:丹尼尔·雷德克里夫DanielRadcliffe...",
+    "detail": "2011/美国英国/奇幻冒险"
+  },
+  {
+    "id": 77,
+    "title": "沉默的羔羊 / The Silence of the Lambs",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1593414327.jpg",
+    "intro": "安东尼·霍普金斯的顶级表演。",
+    "actors": "导演:乔纳森·戴米JonathanDemme主演:朱迪·福斯特JodieFoster/安...",
+    "detail": "1991/美国/剧情犯罪惊悚"
+  },
+  {
+    "id": 78,
+    "title": "布达佩斯大饭店 / The Grand Budapest Hotel",
+    "star": "8.9",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2178872593.jpg",
+    "intro": "小清新的故事里注入了大历史的情怀。",
+    "actors": "导演:韦斯·安德森WesAnderson主演:拉尔夫·费因斯RalphFiennes/...",
+    "detail": "2014/美国德国英国/剧情喜剧冒险"
+  },
+  {
+    "id": 79,
+    "title": "禁闭岛 / Shutter Island",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p450262388.jpg",
+    "intro": "昔日翩翩少年，今日大腹便便。",
+    "actors": "导演:MartinScorsese主演:莱昂纳多·迪卡普里奥LeonardoDiCaprio/...",
+    "detail": "2010/美国/剧情悬疑惊悚"
+  },
+  {
+    "id": 80,
+    "title": "蝴蝶效应 / The Butterfly Effect",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209066019.jpg",
+    "intro": "人的命运被自己瞬间的抉择改变。",
+    "actors": "导演:埃里克·布雷斯EricBress/J·麦基·格鲁伯J.MackyeGruber主...",
+    "detail": "2004/美国加拿大/剧情悬疑科幻惊悚"
+  },
+  {
+    "id": 81,
+    "title": "致命魔术 / The Prestige",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg",
+    "intro": "孪生蝙蝠侠大战克隆金刚狼。",
+    "actors": "导演:克里斯托弗·诺兰ChristopherNolan主演:休·杰克曼HughJackman...",
+    "detail": "2006/英国美国/剧情悬疑惊悚"
+  },
+  {
+    "id": 82,
+    "title": "功夫",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2219011938.jpg",
+    "intro": "警恶惩奸，维护世界和平这个任务就交给你了，好吗？",
+    "actors": "导演:周星驰StephenChow主演:周星驰StephenChow/元秋QiuYuen/...",
+    "detail": "2004/中国大陆中国香港/动作喜剧犯罪奇幻"
+  },
+  {
+    "id": 83,
+    "title": "心灵捕手 / Good Will Hunting",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480965695.jpg",
+    "intro": "人生中应该拥有这样的一段豁然开朗。",
+    "actors": "导演:格斯·范·桑特GusVanSant主演:马特·达蒙MattDamon/罗宾·...",
+    "detail": "1997/美国/剧情"
+  },
+  {
+    "id": 84,
+    "title": "海豚湾 / The Cove",
+    "star": "9.3",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559579779.jpg",
+    "intro": "海豚的微笑，是世界上最高明的伪装。",
+    "actors": "导演:路易·西霍尤斯LouiePsihoyos主演:路易·西霍尤斯LouiePsihoyo...",
+    "detail": "2009/美国/纪录片"
+  },
+  {
+    "id": 85,
+    "title": "哈利·波特与阿兹卡班的囚徒 / Harry Potter and the Prisoner of Azkaban",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910812549.jpg",
+    "intro": "不一样的导演，不一样的哈利·波特。",
+    "actors": "导演:AlfonsoCuarón主演:丹尼尔·雷德克里夫DanielRadcliffe/Emma...",
+    "detail": "2004/英国美国/奇幻冒险"
+  },
+  {
+    "id": 86,
+    "title": "低俗小说 / Pulp Fiction",
+    "star": "8.9",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1910902213.jpg",
+    "intro": "故事的高级讲法。",
+    "actors": "导演:昆汀·塔伦蒂诺QuentinTarantino主演:约翰·特拉沃尔塔JohnTra...",
+    "detail": "1994/美国/剧情喜剧犯罪"
+  },
+  {
+    "id": 87,
+    "title": "春光乍泄 / 春光乍洩",
+    "star": "9.0",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p465939041.jpg",
+    "intro": "爱情纠缠，男女一致。",
+    "actors": "导演:王家卫KarWaiWong主演:张国荣LeslieCheung/梁朝伟TonyLeu...",
+    "detail": "1997/中国香港日本韩国/剧情爱情同性"
+  },
+  {
+    "id": 88,
+    "title": "美国往事 / Once Upon a Time in America",
+    "star": "9.2",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p477229647.jpg",
+    "intro": "往事如烟，无处祭奠。",
+    "actors": "导演:赛尔乔·莱翁内SergioLeone主演:罗伯特·德尼罗RobertDeNiro...",
+    "detail": "1984/美国意大利/犯罪剧情"
+  },
+  {
+    "id": 89,
+    "title": "超脱 / Detachment",
+    "star": "9.0",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1305562621.jpg",
+    "intro": "穷尽一生，我们要学会的，不过是彼此拥抱。",
+    "actors": "导演:托尼·凯耶TonyKaye主演:艾德里安·布洛迪AdrienBrody/马西...",
+    "detail": "2011/美国/剧情"
+  },
+  {
+    "id": 90,
+    "title": "摩登时代 / Modern Times",
+    "star": "9.3",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263408369.jpg",
+    "intro": "大时代中的人生，小人物的悲喜。",
+    "actors": "导演:查理·卓别林CharlesChaplin主演:查理·卓别林CharlesChaplin...",
+    "detail": "1936/美国/剧情喜剧爱情"
+  },
+  {
+    "id": 91,
+    "title": "喜剧之王 / 喜劇之王",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2579932167.jpg",
+    "intro": "我是一个演员。",
+    "actors": "导演:周星驰StephenChow/李力持Lik-ChiLee主演:周星驰StephenCh...",
+    "detail": "1999/中国香港/喜剧剧情爱情"
+  },
+  {
+    "id": 92,
+    "title": "致命ID / Identity",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558364386.jpg",
+    "intro": "最不可能的那个人永远是最可能的。",
+    "actors": "导演:詹姆斯·曼高德JamesMangold主演:约翰·库萨克JohnCusack/雷...",
+    "detail": "2003/美国/剧情悬疑惊悚"
+  },
+  {
+    "id": 93,
+    "title": "杀人回忆 / 살인의 추억",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1633113220.jpg",
+    "intro": "关于连环杀人悬案的集体回忆。",
+    "actors": "导演:奉俊昊Joon-hoBong主演:宋康昊Kang-hoSong/金相庆Sang-kyun...",
+    "detail": "2003/韩国/剧情动作犯罪悬疑惊悚"
+  },
+  {
+    "id": 94,
+    "title": "七宗罪 / Se7en",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2219586434.jpg",
+    "intro": "警察抓小偷，老鼠玩死猫。",
+    "actors": "导演:大卫·芬奇DavidFincher主演:摩根·弗里曼MorganFreeman/布...",
+    "detail": "1995/美国/剧情犯罪悬疑惊悚"
+  },
+  {
+    "id": 95,
+    "title": "红辣椒 / パプリカ",
+    "star": "9.1",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p456825720.jpg",
+    "intro": "梦的勾结。",
+    "actors": "导演:今敏SatoshiKon主演:林原惠美MegumiHayashibara/江守彻Toru...",
+    "detail": "2006/日本/动画悬疑科幻惊悚"
+  },
+  {
+    "id": 96,
+    "title": "加勒比海盗 / Pirates of the Caribbean: The Curse of the Black Pearl",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1596085504.jpg",
+    "intro": "约翰尼·德普的独角戏。",
+    "actors": "导演:戈尔·维宾斯基GoreVerbinski主演:约翰尼·德普JohnnyDepp/...",
+    "detail": "2003/美国/动作冒险奇幻"
+  },
+  {
+    "id": 97,
+    "title": "哈利·波特与密室 / Harry Potter and the Chamber of Secrets",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1082651990.jpg",
+    "intro": "魔法的密室之门已打开...",
+    "actors": "导演:ChrisColumbus主演:丹尼尔·雷德克里夫DanielRadcliffe/艾玛...",
+    "detail": "2002/英国美国/奇幻冒险"
+  },
+  {
+    "id": 98,
+    "title": "狩猎 / Jagten",
+    "star": "9.1",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1546987967.jpg",
+    "intro": "人言可畏。",
+    "actors": "导演:托马斯·温特伯格ThomasVinterberg主演:麦斯·米科尔森MadsMik...",
+    "detail": "2012/丹麦瑞典/剧情"
+  },
+  {
+    "id": 99,
+    "title": "一一",
+    "star": "9.1",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2567845803.jpg",
+    "intro": "我们都曾经是一一。",
+    "actors": "导演:杨德昌EdwardYang主演:吴念真/李凯莉KellyLee/金燕玲Elai...",
+    "detail": "2000/中国台湾日本/剧情爱情家庭"
+  },
+  {
+    "id": 100,
+    "title": "7号房的礼物 / 7번방의 선물",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1816276065.jpg",
+    "intro": "《我是山姆》的《美丽人生》。",
+    "actors": "导演:李焕庆Hwan-kyeongLee主演:柳承龙Seung-yongRyoo/朴信惠Shi...",
+    "detail": "2013/韩国/剧情喜剧家庭"
+  },
+  {
+    "id": 101,
+    "title": "被嫌弃的松子的一生 / 嫌われ松子の一生",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p884763596.jpg",
+    "intro": "以戏谑来戏谑戏谑。",
+    "actors": "导演:中岛哲也TetsuyaNakashima主演:中谷美纪MikiNakatani/瑛太E...",
+    "detail": "2006/日本/剧情歌舞"
+  },
+  {
+    "id": 102,
+    "title": "唐伯虎点秋香 / 唐伯虎點秋香",
+    "star": "8.7",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2357915564.jpg",
+    "intro": "华太师是黄霑，吴镇宇四大才子之一。",
+    "actors": "导演:李力持Lik-ChiLee主演:周星驰StephenChow/巩俐LiGong/陈...",
+    "detail": "1993/中国香港/喜剧爱情古装"
+  },
+  {
+    "id": 103,
+    "title": "请以你的名字呼唤我 / Call Me by Your Name",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505525050.jpg",
+    "intro": "沉醉在电影的情感和视听氛围中无法自拔。",
+    "actors": "导演:卢卡·瓜达尼诺LucaGuadagnino主演:艾米·汉莫ArmieHammer/...",
+    "detail": "2017/意大利法国巴西美国/剧情爱情同性"
+  },
+  {
+    "id": 104,
+    "title": "断背山 / Brokeback Mountain",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2604889017.jpg",
+    "intro": "每个人心中都有一座断背山。",
+    "actors": "导演:李安AngLee主演:希斯·莱杰HeathLedger/杰克·吉伦哈尔Jake...",
+    "detail": "2005/美国加拿大/剧情爱情同性家庭"
+  },
+  {
+    "id": 105,
+    "title": "剪刀手爱德华 / Edward Scissorhands",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480956937.jpg",
+    "intro": "浪漫忧郁的成人童话。",
+    "actors": "导演:蒂姆·波顿TimBurton主演:约翰尼·德普JohnnyDepp/薇诺娜·...",
+    "detail": "1990/美国/剧情奇幻爱情"
+  },
+  {
+    "id": 106,
+    "title": "入殓师 / おくりびと",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2707581855.jpg",
+    "intro": "死可能是一道门，逝去并不是终结，而是超越，走向下一程。",
+    "actors": "导演:泷田洋二郎YôjirôTakita主演:本木雅弘MasahiroMotoki/...",
+    "detail": "2008/日本/剧情"
+  },
+  {
+    "id": 107,
+    "title": "爱在黎明破晓前 / Before Sunrise",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555762374.jpg",
+    "intro": "缘分是个连绵词，最美不过一瞬。",
+    "actors": "导演:理查德·林克莱特RichardLinklater主演:伊桑·霍克EthanHawke...",
+    "detail": "1995/美国奥地利瑞士/剧情爱情"
+  },
+  {
+    "id": 108,
+    "title": "勇敢的心 / Braveheart",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2004174709.jpg",
+    "intro": "史诗大片的典范。",
+    "actors": "导演:梅尔·吉布森MelGibson主演:梅尔·吉布森MelGibson/苏菲·玛...",
+    "detail": "1995/美国/动作传记剧情历史战争"
+  },
+  {
+    "id": 109,
+    "title": "第六感 / The Sixth Sense",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2220184425.jpg",
+    "intro": "深入内心的恐怖，出人意料的结局。",
+    "actors": "导演:M·奈特·沙马兰M.NightShyamalan主演:布鲁斯·威利斯BruceWi...",
+    "detail": "1999/美国/剧情悬疑惊悚"
+  },
+  {
+    "id": 110,
+    "title": "蝙蝠侠：黑暗骑士崛起 / The Dark Knight Rises",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1706428744.jpg",
+    "intro": "诺兰就是保证。",
+    "actors": "导演:克里斯托弗·诺兰ChristopherNolan主演:克里斯蒂安·贝尔Christ...",
+    "detail": "2012/美国英国/剧情动作科幻犯罪惊悚"
+  },
+  {
+    "id": 111,
+    "title": "重庆森林 / 重慶森林",
+    "star": "8.8",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p792381411.jpg",
+    "intro": "寂寞没有期限。",
+    "actors": "导演:王家卫KarWaiWong主演:林青霞BrigitteLin/金城武TakeshiK...",
+    "detail": "1994/中国香港/剧情爱情"
+  },
+  {
+    "id": 112,
+    "title": "幽灵公主 / もののけ姫",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1613191025.jpg",
+    "intro": "人与自然的战争史诗。",
+    "actors": "导演:宫崎骏HayaoMiyazaki主演:松田洋治YôjiMatsuda/石田百合...",
+    "detail": "1997/日本/动画奇幻冒险"
+  },
+  {
+    "id": 113,
+    "title": "超能陆战队 / Big Hero 6",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2614500883.jpg",
+    "intro": "Balalala~~~",
+    "actors": "导演:唐·霍尔DonHall/克里斯·威廉姆斯ChrisWilliams主演:斯科特...",
+    "detail": "2014/美国/喜剧动作科幻动画冒险"
+  },
+  {
+    "id": 114,
+    "title": "爱在日落黄昏时 / Before Sunset",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561542458.jpg",
+    "intro": "九年后的重逢是世俗和责任的交叠，没了悸动和青涩，沧桑而温暖。",
+    "actors": "导演:理查德·林克莱特RichardLinklater主演:伊桑·霍克EthanHawke...",
+    "detail": "2004/美国法国/剧情爱情"
+  },
+  {
+    "id": 115,
+    "title": "菊次郎的夏天 / 菊次郎の夏",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2620392435.jpg",
+    "intro": "从没见过那么流氓的温柔，从没见过那么温柔的流氓。",
+    "actors": "导演:北野武TakeshiKitano主演:北野武TakeshiKitano/关口雄介Yus...",
+    "detail": "1999/日本/剧情喜剧"
+  },
+  {
+    "id": 116,
+    "title": "甜蜜蜜",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2223011274.jpg",
+    "intro": "相逢只要一瞬间，等待却像是一辈子。",
+    "actors": "导演:陈可辛PeterChan主演:黎明LeonLai/张曼玉MaggieCheung/...",
+    "detail": "1996/中国香港/剧情爱情"
+  },
+  {
+    "id": 117,
+    "title": "天使爱美丽 / Le fabuleux destin d'Amélie Poulain",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2447590313.jpg",
+    "intro": "法式小清新。 ",
+    "actors": "导演:让-皮埃尔·热内Jean-PierreJeunet主演:奥黛丽·塔图AudreyTau...",
+    "detail": "2001/法国德国/剧情喜剧爱情"
+  },
+  {
+    "id": 118,
+    "title": "阳光灿烂的日子",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564685215.jpg",
+    "intro": "一场华丽的意淫。",
+    "actors": "导演:姜文WenJiang主演:夏雨YuXia/宁静JingNing/陶虹HongTao",
+    "detail": "1994/中国大陆中国香港/剧情爱情"
+  },
+  {
+    "id": 119,
+    "title": "小森林 夏秋篇 / リトル・フォレスト 夏・秋",
+    "star": "9.0",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2564498893.jpg",
+    "intro": "那些静得只能听见呼吸的日子里，你明白孤独即生活。",
+    "actors": "导演:森淳一JunichiMori主演:桥本爱AiHashimoto/三浦贵大Takahir...",
+    "detail": "2014/日本/剧情"
+  },
+  {
+    "id": 120,
+    "title": "借东西的小人阿莉埃蒂 / 借りぐらしのアリエッティ",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p617533616.jpg",
+    "intro": "曾经的那段美好会沉淀为一辈子的记忆。",
+    "actors": "导演:米林宏昌HiromasaYonebayashi主演:志田未来MiraiShida/神木...",
+    "detail": "2010/日本/动画奇幻冒险"
+  },
+  {
+    "id": 121,
+    "title": "完美的世界 / A Perfect World",
+    "star": "9.1",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2190556408.jpg",
+    "intro": "坏人的好总是比好人的好来得更感人。",
+    "actors": "导演:克林特·伊斯特伍德ClintEastwood主演:凯文·科斯特纳KevinCos...",
+    "detail": "1993/美国/剧情犯罪"
+  },
+  {
+    "id": 122,
+    "title": "无人知晓 / 誰も知らない",
+    "star": "9.1",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p661160053.jpg",
+    "intro": "我的平常生活就是他人的幸福。",
+    "actors": "导演:是枝裕和HirokazuKoreeda主演:柳乐优弥YûyaYagira/北浦爱...",
+    "detail": "2004/日本/剧情"
+  },
+  {
+    "id": 123,
+    "title": "消失的爱人 / Gone Girl",
+    "star": "8.7",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2221768894.jpg",
+    "intro": "年度最佳date movie。",
+    "actors": "导演:大卫·芬奇DavidFincher主演:本·阿弗莱克BenAffleck/罗莎蒙...",
+    "detail": "2014/美国/剧情犯罪悬疑惊悚"
+  },
+  {
+    "id": 124,
+    "title": "倩女幽魂",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2414157745.jpg",
+    "intro": "两张绝世的脸。 ",
+    "actors": "导演:程小东Siu-TungChing主演:张国荣LeslieCheung/王祖贤JoeyW...",
+    "detail": "1987/中国香港/爱情奇幻武侠古装"
+  },
+  {
+    "id": 125,
+    "title": "寄生虫 / 기생충",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561439800.jpg",
+    "intro": "",
+    "actors": "导演:奉俊昊Joon-hoBong主演:宋康昊Kang-hoSong/李善均Seon-gyun...",
+    "detail": "2019/韩国/剧情"
+  },
+  {
+    "id": 126,
+    "title": "时空恋旅人 / About Time",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2070153774.jpg",
+    "intro": "把每天当作最后一天般珍惜度过，积极拥抱生活，就是幸福。",
+    "actors": "导演:理查德·柯蒂斯RichardCurtis主演:多姆纳尔·格里森DomhnallGl...",
+    "detail": "2013/英国/喜剧爱情奇幻"
+  },
+  {
+    "id": 127,
+    "title": "侧耳倾听 / 耳をすませば",
+    "star": "8.9",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p456692072.jpg",
+    "intro": "少女情怀总是诗。",
+    "actors": "导演:近藤喜文YoshifumiKondo主演:本名阳子YoukoHonna/小林桂树K...",
+    "detail": "1995/日本/剧情爱情动画"
+  },
+  {
+    "id": 128,
+    "title": "小森林 冬春篇 / リトル・フォレスト 冬・春",
+    "star": "9.0",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2215147728.jpg",
+    "intro": "尊敬他人，尊敬你生活的这片土地，明白孤独是人生的常态。",
+    "actors": "导演:森淳一JunichiMori主演:桥本爱AiHashimoto/三浦贵大Takahir...",
+    "detail": "2015/日本/剧情"
+  },
+  {
+    "id": 129,
+    "title": "幸福终点站 / The Terminal",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p854757687.jpg",
+    "intro": "有时候幸福需要等一等。 ",
+    "actors": "导演:史蒂文·斯皮尔伯格StevenSpielberg主演:汤姆·汉克斯TomHanks...",
+    "detail": "2004/美国/喜剧剧情爱情"
+  },
+  {
+    "id": 130,
+    "title": "驯龙高手 / How to Train Your Dragon",
+    "star": "8.8",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p490385643.jpg",
+    "intro": "和谐的生活离不开摸头与被摸头。",
+    "actors": "导演:迪恩·德布洛斯DeanDeBlois/克里斯·桑德斯ChrisSanders主演:...",
+    "detail": "2010/美国/动画奇幻冒险"
+  },
+  {
+    "id": 131,
+    "title": "教父3 / The Godfather: Part III",
+    "star": "9.0",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2169664351.jpg",
+    "intro": "任何信念的力量，都无法改变命运。",
+    "actors": "导演:弗朗西斯·福特·科波拉FrancisFordCoppola主演:阿尔·帕西诺A...",
+    "detail": "1990/美国/剧情犯罪"
+  },
+  {
+    "id": 132,
+    "title": "一个叫欧维的男人决定去死 / En man som heter Ove",
+    "star": "8.9",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2406624993.jpg",
+    "intro": "惠及一生的美丽。",
+    "actors": "导演:汉内斯·赫尔姆HannesHolm主演:罗夫·拉斯加德RolfLassgård...",
+    "detail": "2015/瑞典/剧情"
+  },
+  {
+    "id": 133,
+    "title": "未麻的部屋 / Perfect Blue",
+    "star": "9.1",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1351050722.jpg",
+    "intro": "好的剧本是，就算你猜到了结局也猜不到全部。",
+    "actors": "导演:今敏SatoshiKon主演:岩男润子JunkoIwao/松本梨香RicaMatsu...",
+    "detail": "1997/日本/动画奇幻惊悚"
+  },
+  {
+    "id": 134,
+    "title": "萤火之森 / 蛍火の杜へ",
+    "star": "8.9",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1675053073.jpg",
+    "intro": "触不到的恋人。",
+    "actors": "导演:大森贵弘TakahiroOmori主演:佐仓绫音AyaneSakura/内山昂辉K...",
+    "detail": "2011/日本/剧情爱情动画奇幻"
+  },
+  {
+    "id": 135,
+    "title": "怪兽电力公司 / Monsters, Inc.",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513247938.jpg",
+    "intro": "不要给它起名字，起了名字就有感情了。",
+    "actors": "导演:彼特·道格特PeteDocter/大卫·斯沃曼DavidSilverman主演:约...",
+    "detail": "2001/美国/儿童喜剧动画奇幻冒险"
+  },
+  {
+    "id": 136,
+    "title": "哈利·波特与火焰杯 / Harry Potter and the Goblet of Fire",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p735391084.jpg",
+    "intro": "",
+    "actors": "导演:迈克·内威尔MikeNewell主演:丹尼尔·雷德克里夫DanielRadclif...",
+    "detail": "2005/英国美国/悬疑奇幻冒险"
+  },
+  {
+    "id": 137,
+    "title": "傲慢与偏见 / Pride & Prejudice",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2016401659.jpg",
+    "intro": "爱是摈弃傲慢与偏见之后的曙光。",
+    "actors": "导演:乔·怀特JoeWright主演:凯拉·奈特莉KeiraKnightley/马修·...",
+    "detail": "2005/法国英国美国/剧情爱情"
+  },
+  {
+    "id": 138,
+    "title": "玩具总动员3 / Toy Story 3",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1283675359.jpg",
+    "intro": "跨度十五年的欢乐与泪水。",
+    "actors": "导演:李·昂克里奇LeeUnkrich主演:汤姆·汉克斯TomHanks/蒂姆·艾...",
+    "detail": "2010/美国/喜剧动画奇幻冒险"
+  },
+  {
+    "id": 139,
+    "title": "新世界 / 신세계",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1903379979.jpg",
+    "intro": "要做就做得狠一点，这样才能活下去。",
+    "actors": "导演:朴勋政Hoon-jungPark主演:李政宰Jung-JaeLee/崔岷植Min-sik...",
+    "detail": "2013/韩国/剧情犯罪"
+  },
+  {
+    "id": 140,
+    "title": "釜山行 / 부산행",
+    "star": "8.6",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2360940399.jpg",
+    "intro": "揭露人性的丧尸题材力作。",
+    "actors": "导演:延尚昊Sang-hoYeon主演:孔侑YooGong/郑有美Yu-miJung/马...",
+    "detail": "2016/韩国/动作惊悚灾难"
+  },
+  {
+    "id": 141,
+    "title": "神偷奶爸 / Despicable Me",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792776858.jpg",
+    "intro": "Mr. I Don't Care其实也有Care的时候。",
+    "actors": "导演:皮艾尔·柯芬PierreCoffin/克里斯·雷纳德ChrisRenaud主演:...",
+    "detail": "2010/美国法国/喜剧动画冒险"
+  },
+  {
+    "id": 142,
+    "title": "被解救的姜戈 / Django Unchained",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1800813767.jpg",
+    "intro": "热血沸腾，那个低俗、性感的无耻混蛋又来了。",
+    "actors": "导演:昆汀·塔伦蒂诺QuentinTarantino主演:杰米·福克斯JamieFoxx/...",
+    "detail": "2012/美国/剧情动作西部冒险"
+  },
+  {
+    "id": 143,
+    "title": "玛丽和马克思 / Mary and Max",
+    "star": "9.0",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p488255145.jpg",
+    "intro": "你是我最好的朋友，你是我唯一的朋友 。",
+    "actors": "导演:亚当·艾略特AdamElliot主演:托妮·科莱特ToniCollette/菲利...",
+    "detail": "2009/澳大利亚美国/剧情喜剧动画"
+  },
+  {
+    "id": 144,
+    "title": "告白",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p689520756.jpg",
+    "intro": "没有一人完全善，也没有一人完全恶。",
+    "actors": "导演:中岛哲也TetsuyaNakashima主演:松隆子TakakoMatsu/冈田将生...",
+    "detail": "2010/日本/剧情悬疑"
+  },
+  {
+    "id": 145,
+    "title": "大鱼 / Big Fish",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p692813374.jpg",
+    "intro": "抱着梦想而活着的人是幸福的，怀抱梦想而死去的人是不朽的。",
+    "actors": "导演:蒂姆·波顿TimBurton主演:伊万·麦克格雷格EwanMcGregor/阿...",
+    "detail": "2003/美国/剧情家庭奇幻冒险"
+  },
+  {
+    "id": 146,
+    "title": "哪吒闹海",
+    "star": "9.2",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2532803206.jpg",
+    "intro": "想你时你在闹海。",
+    "actors": "导演:王树忱ShuchenWang/严定宪DingxianYan主演:梁正晖Zhenghui...",
+    "detail": "1979/中国大陆/冒险动画奇幻"
+  },
+  {
+    "id": 147,
+    "title": "射雕英雄传之东成西就 / 射鵰英雄傳之東成西就",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2609063922.jpg",
+    "intro": "百看不厌。 ",
+    "actors": "导演:刘镇伟JeffreyLau主演:梁朝伟TonyLeungChiuWai/林青霞Bri...",
+    "detail": "1993/中国香港/喜剧奇幻武侠古装"
+  },
+  {
+    "id": 148,
+    "title": "喜宴 / 囍宴",
+    "star": "9.0",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2249048907.jpg",
+    "intro": "中国家庭的喜怒哀乐忍。",
+    "actors": "导演:李安AngLee主演:赵文瑄WinstonChao/归亚蕾Ya-leiKuei/郎...",
+    "detail": "1993/中国台湾美国/剧情喜剧爱情同性家庭"
+  },
+  {
+    "id": 149,
+    "title": "头号玩家 / Ready Player One",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516578307.jpg",
+    "intro": "写给影迷，动漫迷和游戏迷的一封情书。",
+    "actors": "导演:史蒂文·斯皮尔伯格StevenSpielberg主演:泰伊·谢里丹TyeSheri...",
+    "detail": "2018/美国/动作科幻冒险"
+  },
+  {
+    "id": 150,
+    "title": "模仿游戏 / The Imitation Game",
+    "star": "8.8",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2255040492.jpg",
+    "intro": "他给机器起名“克里斯托弗”，因为这是他初恋的名字。",
+    "actors": "导演:莫滕·泰杜姆MortenTyldum主演:本尼迪克特·康伯巴奇BenedictC...",
+    "detail": "2014/英国美国/剧情传记战争同性"
+  },
+  {
+    "id": 151,
+    "title": "阳光姐妹淘 / 써니",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1374786017.jpg",
+    "intro": "再多各自牛逼的时光，也比不上一起傻逼的岁月。 ",
+    "actors": "导演:姜炯哲Hyeong-CheolKang主演:沈恩京Eun-kyungShim/闵孝琳Hy...",
+    "detail": "2011/韩国/剧情喜剧"
+  },
+  {
+    "id": 152,
+    "title": "茶馆",
+    "star": "9.6",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528965424.jpg",
+    "intro": "",
+    "actors": "导演:谢添TianXie主演:于是之ShizhiYu/郑榕RongZhen/蓝天野T...",
+    "detail": "1982(中国大陆)/中国大陆/剧情历史"
+  },
+  {
+    "id": 153,
+    "title": "我是山姆 / I Am Sam",
+    "star": "9.0",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p652417775.jpg",
+    "intro": "爱并不需要智商 。",
+    "actors": "导演:杰茜·尼尔森JessieNelson主演:SeanPenn/DakotaFanning/Mi...",
+    "detail": "2001/美国/剧情家庭"
+  },
+  {
+    "id": 154,
+    "title": "九品芝麻官",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p648370300.jpg",
+    "intro": "",
+    "actors": "导演:王晶JingWong主演:周星驰StephenChow/吴孟达ManTatNg/...",
+    "detail": "1994/中国香港中国大陆/剧情喜剧古装"
+  },
+  {
+    "id": 155,
+    "title": "花样年华 / 花樣年華",
+    "star": "8.7",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910828286.jpg",
+    "intro": "偷情本没有这样美。",
+    "actors": "导演:王家卫KarWaiWong主演:梁朝伟TonyLeungChiuWai/张曼玉Ma...",
+    "detail": "2000/中国香港/剧情爱情"
+  },
+  {
+    "id": 156,
+    "title": "血战钢锯岭 / Hacksaw Ridge",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2398141939.jpg",
+    "intro": "优秀的战争片不会美化战场，不会粉饰死亡，不会矮化敌人，不会无视常识，最重要的，不会宣扬战争。",
+    "actors": "导演:梅尔·吉布森MelGibson主演:安德鲁·加菲尔德AndrewGarfield/...",
+    "detail": "2016/澳大利亚美国/剧情传记历史战争"
+  },
+  {
+    "id": 157,
+    "title": "恐怖直播 / 더 테러 라이브",
+    "star": "8.7",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2016930906.jpg",
+    "intro": "恐怖分子的“秋菊打官司”。",
+    "actors": "导演:金秉祐Byeong-wooKim主演:河正宇Jung-wooHa/李璟荣Kyeong-y...",
+    "detail": "2013/韩国/剧情犯罪悬疑"
+  },
+  {
+    "id": 158,
+    "title": "色，戒",
+    "star": "8.7",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p453716305.jpg",
+    "intro": "假戏真情，爱欲深海",
+    "actors": "导演:李安AngLee主演:梁朝伟TonyLeungChiuWai/汤唯WeiTang/...",
+    "detail": "2007/中国台湾中国大陆美国中国香港/剧情爱情情色"
+  },
+  {
+    "id": 159,
+    "title": "七武士 / 七人の侍",
+    "star": "9.3",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2215886505.jpg",
+    "intro": "时代悲歌。",
+    "actors": "导演:黑泽明AkiraKurosawa主演:三船敏郎ToshirôMifune/志村乔...",
+    "detail": "1954/日本/动作冒险剧情"
+  },
+  {
+    "id": 160,
+    "title": "头脑特工队 / Inside Out",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2266293606.jpg",
+    "intro": "愿我们都不用长大，每一座城堡都能永远存在。",
+    "actors": "导演:彼特·道格特PeteDocter/罗纳尔多·德尔·卡门RonaldoDelCarmen&nb...",
+    "detail": "2015/美国/喜剧动画冒险"
+  },
+  {
+    "id": 161,
+    "title": "惊魂记 / Psycho",
+    "star": "9.0",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1021883305.jpg",
+    "intro": "故事的反转与反转，分裂电影的始祖。",
+    "actors": "导演:阿尔弗雷德·希区柯克AlfredHitchcock主演:安东尼·博金斯Antho...",
+    "detail": "1960/美国/悬疑惊悚恐怖"
+  },
+  {
+    "id": 162,
+    "title": "黑客帝国3：矩阵革命 / The Matrix Revolutions",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443461818.jpg",
+    "intro": "不得不说，《黑客帝国》系列是商业片与科幻、哲学完美结合的典范。",
+    "actors": "导演:拉娜·沃卓斯基LanaWachowski/莉莉·沃卓斯基LillyWachowski...",
+    "detail": "2003/美国/动作科幻"
+  },
+  {
+    "id": 163,
+    "title": "你的名字。 / 君の名は。",
+    "star": "8.5",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2395733377.jpg",
+    "intro": "穿越错位的时空，仰望陨落的星辰，你没留下你的名字，我却无法忘记那句“我爱你”。",
+    "actors": "导演:新海诚MakotoShinkai主演:神木隆之介RyûnosukeKamiki/上...",
+    "detail": "2016/日本/剧情爱情动画"
+  },
+  {
+    "id": 164,
+    "title": "电锯惊魂 / Saw",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p726839485.jpg",
+    "intro": "真相就在眼前。",
+    "actors": "导演:詹姆斯·温JamesWan主演:雷·沃纳尔LeighWhannell/加利·艾...",
+    "detail": "2004/美国/悬疑惊悚恐怖"
+  },
+  {
+    "id": 165,
+    "title": "三块广告牌 / Three Billboards Outside Ebbing, Missouri",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510081688.jpg",
+    "intro": "怼天怼地，你走后，她与世界为敌。",
+    "actors": "导演:马丁·麦克唐纳MartinMcDonagh主演:弗兰西斯·麦克多蒙德France...",
+    "detail": "2017/英国美国/剧情犯罪"
+  },
+  {
+    "id": 166,
+    "title": "达拉斯买家俱乐部 / Dallas Buyers Club",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2166160837.jpg",
+    "intro": "Jared Leto的腿比女人还美！",
+    "actors": "导演:让-马克·瓦雷Jean-MarcVallée主演:马修·麦康纳MatthewMcCon...",
+    "detail": "2013/美国/剧情传记同性"
+  },
+  {
+    "id": 167,
+    "title": "疯狂原始人 / The Croods",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1867084027.jpg",
+    "intro": "老少皆宜，这就是好莱坞动画的魅力。",
+    "actors": "导演:科克·德·米科KirkDeMicco/克里斯·桑德斯ChrisSanders主演...",
+    "detail": "2013/美国/喜剧动画冒险"
+  },
+  {
+    "id": 168,
+    "title": "心迷宫",
+    "star": "8.7",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2276780256.jpg",
+    "intro": "荒诞讽刺，千奇百巧，抽丝剥茧，百转千回。",
+    "actors": "导演:忻钰坤YukunXin主演:霍卫民WeiminHuo/王笑天XiaotianWang...",
+    "detail": "2014/中国大陆/剧情犯罪悬疑"
+  },
+  {
+    "id": 169,
+    "title": "谍影重重3 / The Bourne Ultimatum",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792223507.jpg",
+    "intro": "像吃了苏打饼一样干脆的电影。",
+    "actors": "导演:保罗·格林格拉斯PaulGreengrass主演:马特·达蒙MattDamon/...",
+    "detail": "2007/美国德国法国英国/动作悬疑惊悚"
+  },
+  {
+    "id": 170,
+    "title": "上帝之城 / Cidade de Deus",
+    "star": "9.0",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p455677490.jpg",
+    "intro": "被上帝抛弃了的上帝之城。",
+    "actors": "导演:费尔南多·梅里尔斯FernandoMeirelles/卡迪亚·兰德KátiaLund...",
+    "detail": "2002/巴西法国/犯罪剧情"
+  },
+  {
+    "id": 171,
+    "title": "英雄本色",
+    "star": "8.6",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504997087.jpg",
+    "intro": "英雄泪短，兄弟情长。 ",
+    "actors": "导演:吴宇森JohnWoo主演:周润发Yun-FatChow/狄龙LungTi/张国...",
+    "detail": "1986/中国香港/剧情动作犯罪"
+  },
+  {
+    "id": 172,
+    "title": "卢旺达饭店 / Hotel Rwanda",
+    "star": "8.9",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p470419493.jpg",
+    "intro": "当这个世界闭上双眼，他却敞开了怀抱。",
+    "actors": "导演:特瑞·乔治TerryGeorge主演:唐·钱德尔DonCheadle/苏菲·奥...",
+    "detail": "2004/英国南非意大利美国/剧情传记历史战争"
+  },
+  {
+    "id": 173,
+    "title": "纵横四海 / 緃横四海",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2597918718.jpg",
+    "intro": "香港浪漫主义警匪动作片的巅峰之作。",
+    "actors": "导演:吴宇森JohnWoo主演:周润发Yun-FatChow/张国荣LeslieCheung...",
+    "detail": "1991/中国香港/剧情喜剧动作犯罪"
+  },
+  {
+    "id": 174,
+    "title": "风之谷 / 風の谷のナウシカ",
+    "star": "8.9",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1917567652.jpg",
+    "intro": "动画片的圣经。",
+    "actors": "导演:宫崎骏HayaoMiyazaki主演:岛本须美SumiShimamoto/松田洋治Y...",
+    "detail": "1984/日本/动画奇幻冒险"
+  },
+  {
+    "id": 175,
+    "title": "海街日记 / 海街diary",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2603364117.jpg",
+    "intro": "是枝裕和的家庭习作。",
+    "actors": "导演:是枝裕和HirokazuKoreeda主演:绫濑遥HarukaAyase/长泽雅美M...",
+    "detail": "2015/日本/剧情家庭"
+  },
+  {
+    "id": 176,
+    "title": "爱在午夜降临前 / Before Midnight",
+    "star": "8.9",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2074715729.jpg",
+    "intro": "所谓爱情，就是话唠一路，都不会心生腻烦，彼此嫌弃。",
+    "actors": "导演:理查德·林克莱特RichardLinklater主演:伊桑·霍克EthanHawke...",
+    "detail": "2013/美国希腊/剧情爱情"
+  },
+  {
+    "id": 177,
+    "title": "绿里奇迹 / The Green Mile",
+    "star": "8.9",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p767586451.jpg",
+    "intro": "天使暂时离开。",
+    "actors": "导演:弗兰克·德拉邦特FrankDarabont主演:汤姆·汉克斯TomHanks/...",
+    "detail": "1999/美国/犯罪剧情奇幻悬疑"
+  },
+  {
+    "id": 178,
+    "title": "记忆碎片 / Memento",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg",
+    "intro": "一个针管引发的血案。",
+    "actors": "导演:克里斯托弗·诺兰ChristopherNolan主演:盖·皮尔斯GuyPearce/...",
+    "detail": "2000/美国/犯罪剧情悬疑惊悚"
+  },
+  {
+    "id": 179,
+    "title": "岁月神偷 / 歲月神偷",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p456666151.jpg",
+    "intro": "岁月流逝，来日可追。",
+    "actors": "导演:罗启锐AlexLaw主演:吴君如SandraNg/任达华SimonYam/钟绍...",
+    "detail": "2010/中国香港中国大陆/剧情家庭"
+  },
+  {
+    "id": 180,
+    "title": "忠犬八公物语 / ハチ公物語",
+    "star": "9.2",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2603716224.jpg",
+    "intro": "养狗三日，便会对你终其一生。",
+    "actors": "导演:神山征二郎SeijirôKôyama主演:仲代达矢TatsuyaNakadai/...",
+    "detail": "1987/日本/剧情"
+  },
+  {
+    "id": 181,
+    "title": "疯狂的石头",
+    "star": "8.6",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p712241453.jpg",
+    "intro": "中国版《两杆大烟枪》。",
+    "actors": "导演:宁浩HaoNing主演:郭涛TaoGuo/刘桦HuaLiu/连晋TeddyLin",
+    "detail": "2006/中国大陆中国香港/喜剧犯罪"
+  },
+  {
+    "id": 182,
+    "title": "荒蛮故事 / Relatos salvajes",
+    "star": "8.8",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2584519452.jpg",
+    "intro": "始于荒诞，止于更荒诞。",
+    "actors": "导演:达米安·斯兹弗隆DamiánSzifron主演:达里奥·葛兰帝内提Darío...",
+    "detail": "2014/阿根廷西班牙/剧情喜剧犯罪"
+  },
+  {
+    "id": 183,
+    "title": "雨中曲 / Singin' in the Rain",
+    "star": "9.1",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1612355875.jpg",
+    "intro": "骨灰级歌舞片。",
+    "actors": "导演:斯坦利·多南StanleyDonen/吉恩·凯利GeneKelly主演:吉恩·...",
+    "detail": "1952/美国/喜剧歌舞爱情"
+  },
+  {
+    "id": 184,
+    "title": "小偷家族 / 万引き家族",
+    "star": "8.7",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530599636.jpg",
+    "intro": "我们组成了家。",
+    "actors": "导演:是枝裕和HirokazuKoreeda主演:中川雅也LilyFranky/安藤樱Sa...",
+    "detail": "2018/日本/剧情犯罪家庭"
+  },
+  {
+    "id": 185,
+    "title": "2001太空漫游 / 2001: A Space Odyssey",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560717825.jpg",
+    "intro": "现代科幻电影的开山之作，最伟大导演的最伟大影片。",
+    "actors": "导演:斯坦利·库布里克StanleyKubrick主演:凯尔·杜拉KeirDullea/...",
+    "detail": "1968/英国美国/科幻惊悚冒险"
+  },
+  {
+    "id": 186,
+    "title": "小丑 / Joker",
+    "star": "8.7",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567198874.jpg",
+    "intro": "",
+    "actors": "导演:托德·菲利普斯ToddPhillips主演:杰昆·菲尼克斯JoaquinPhoeni...",
+    "detail": "2019/美国加拿大/剧情犯罪惊悚"
+  },
+  {
+    "id": 187,
+    "title": "爆裂鼓手 / Whiplash",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2220776342.jpg",
+    "intro": "这个世界从不善待努力的人，努力了也不一定会成功，但是知道自己在努力，就是活下去的动力。",
+    "actors": "导演:达米恩·查泽雷DamienChazelle主演:迈尔斯·特勒MilesTeller/...",
+    "detail": "2014/美国/剧情音乐"
+  },
+  {
+    "id": 188,
+    "title": "背靠背，脸对脸",
+    "star": "9.5",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505048077.jpg",
+    "intro": "",
+    "actors": "导演:黄建新JianxinHuang/杨亚洲YazhouYang主演:牛振华ZhenhuaN...",
+    "detail": "1994/中国大陆中国香港/剧情"
+  },
+  {
+    "id": 189,
+    "title": "无敌破坏王 / Wreck-It Ralph",
+    "star": "8.7",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1735642656.jpg",
+    "intro": "迪士尼和皮克斯拿错剧本的产物。",
+    "actors": "导演:瑞奇·莫尔RichMoore主演:约翰·C·赖利JohnC.Reilly/萨拉...",
+    "detail": "2012/美国/喜剧动画奇幻冒险"
+  },
+  {
+    "id": 190,
+    "title": "无间道2 / 無間道II",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p958008320.jpg",
+    "intro": "",
+    "actors": "导演:刘伟强/麦兆辉主演:陈冠希EdisonChen/余文乐ShawnYue/曾...",
+    "detail": "2003/中国香港/剧情犯罪惊悚"
+  },
+  {
+    "id": 191,
+    "title": "贫民窟的百万富翁 / Slumdog Millionaire",
+    "star": "8.6",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2434249040.jpg",
+    "intro": "上帝之城+猜火车+阿甘正传+开心辞典=山寨富翁",
+    "actors": "导演:丹尼·鲍尔DannyBoyle/洛芙琳·坦丹LoveleenTandan主演:戴夫...",
+    "detail": "2008/英国/剧情爱情"
+  },
+  {
+    "id": 192,
+    "title": "冰川时代 / Ice Age",
+    "star": "8.6",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910895719.jpg",
+    "intro": "松鼠才是角儿。",
+    "actors": "导演:卡洛斯·沙尔丹哈CarlosSaldanha/克里斯·韦奇ChrisWedge主演...",
+    "detail": "2002/美国/喜剧动画冒险"
+  },
+  {
+    "id": 193,
+    "title": "心灵奇旅 / Soul",
+    "star": "8.7",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2626308994.jpg",
+    "intro": "",
+    "actors": "导演:彼特·道格特PeteDocter/凯普·鲍尔斯KempPowers主演:杰米·...",
+    "detail": "2020/美国/动画奇幻音乐"
+  },
+  {
+    "id": 194,
+    "title": "东邪西毒 / 東邪西毒",
+    "star": "8.6",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1982176012.jpg",
+    "intro": "电影诗。",
+    "actors": "导演:王家卫KarWaiWong主演:张国荣LeslieCheung/林青霞Brigitte...",
+    "detail": "1994/中国香港中国台湾/剧情动作爱情武侠古装"
+  },
+  {
+    "id": 195,
+    "title": "恐怖游轮 / Triangle",
+    "star": "8.5",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p462470694.jpg",
+    "intro": "不要企图在重复中寻找已经失去的爱。",
+    "actors": "导演:克里斯托弗·史密斯ChristopherSmith主演:梅利莎·乔治Melissa...",
+    "detail": "2009/英国澳大利亚/剧情悬疑惊悚"
+  },
+  {
+    "id": 196,
+    "title": "牯岭街少年杀人事件 / 牯嶺街少年殺人事件",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p848381236.jpg",
+    "intro": "弱者送给弱者的一刀。",
+    "actors": "导演:杨德昌EdwardYang主演:张震ChenChang/杨静怡LisaYang/张...",
+    "detail": "1991/中国台湾/剧情犯罪"
+  },
+  {
+    "id": 197,
+    "title": "魔女宅急便 / 魔女の宅急便",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p456676352.jpg",
+    "intro": "宫崎骏的电影总让人感觉世界是美好的，阳光明媚的。",
+    "actors": "导演:宫崎骏HayaoMiyazaki主演:高山南MinamiTakayama/佐久间玲Re...",
+    "detail": "1989/日本/动画奇幻冒险"
+  },
+  {
+    "id": 198,
+    "title": "遗愿清单 / The Bucket List",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2676812053.jpg",
+    "intro": "用剩余不多的时间，去燃烧整个生命。",
+    "actors": "导演:罗伯·莱纳RobReiner主演:杰克·尼科尔森JackNicholson/摩根...",
+    "detail": "2007/美国/冒险喜剧剧情"
+  },
+  {
+    "id": 199,
+    "title": "东京教父 / 東京ゴッドファーザーズ",
+    "star": "9.0",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p456703618.jpg",
+    "intro": "",
+    "actors": "导演:今敏SatoshiKon主演:江守彻ToruEmori/梅垣义明YoshiakiUme...",
+    "detail": "2003/日本/剧情喜剧动画"
+  },
+  {
+    "id": 200,
+    "title": "你看起来好像很好吃 / おまえうまそうだな",
+    "star": "8.9",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p709670262.jpg",
+    "intro": "感情不分食草或者食肉。",
+    "actors": "导演:藤森雅也MasayaFujimori主演:山口胜平KappeiYamaguchi/爱河...",
+    "detail": "2010/日本/剧情动画儿童"
+  },
+  {
+    "id": 201,
+    "title": "真爱至上 / Love Actually",
+    "star": "8.6",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p475600770.jpg",
+    "intro": "爱，是个动词。",
+    "actors": "导演:理查德·柯蒂斯RichardCurtis主演:休·格兰特HughGrant/柯林...",
+    "detail": "2003/英国美国法国/喜剧剧情爱情"
+  },
+  {
+    "id": 202,
+    "title": "大佛普拉斯",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505928032.jpg",
+    "intro": "人们可以登上月球，却永远无法探索人们内心的宇宙。",
+    "actors": "导演:黄信尧Hsin-yaoHuang主演:庄益增YizengZhuang/陈竹昇Chu-sh...",
+    "detail": "2017/中国台湾/剧情喜剧"
+  },
+  {
+    "id": 203,
+    "title": "黑天鹅 / Black Swan",
+    "star": "8.6",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549648344.jpg",
+    "intro": "黑暗之美。",
+    "actors": "导演:达伦·阿罗诺夫斯基DarrenAronofsky主演:娜塔莉·波特曼Natalie...",
+    "detail": "2010/美国/剧情惊悚"
+  },
+  {
+    "id": 204,
+    "title": "可可西里",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2363208684.jpg",
+    "intro": "坚硬的信仰。",
+    "actors": "导演:陆川ChuanLu主演:多布杰Duobujie/张磊LeiZhang/亓亮QiL...",
+    "detail": "2004/中国大陆中国香港/剧情犯罪"
+  },
+  {
+    "id": 205,
+    "title": "城市之光 / City Lights",
+    "star": "9.3",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2170238828.jpg",
+    "intro": "永远的小人物，伟大的卓别林。",
+    "actors": "导演:CharlesChaplin主演:查理·卓别林CharlesChaplin/弗吉尼亚·...",
+    "detail": "1931/美国/喜剧剧情爱情"
+  },
+  {
+    "id": 206,
+    "title": "源代码 / Source Code",
+    "star": "8.5",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p988260245.jpg",
+    "intro": "邓肯·琼斯继《月球》之后再度奉献出一部精彩绝伦的科幻佳作。",
+    "actors": "导演:邓肯·琼斯DuncanJones主演:杰克·吉伦哈尔JakeGyllenhaal/...",
+    "detail": "2011/美国加拿大/科幻悬疑惊悚"
+  },
+  {
+    "id": 207,
+    "title": "雨人 / Rain Man",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2353324612.jpg",
+    "intro": "生活在自己的世界里，也可以让周围的人显得可笑和渺小。",
+    "actors": "导演:巴瑞·莱文森BarryLevinson主演:达斯汀·霍夫曼DustinHoffman...",
+    "detail": "1988/美国/剧情"
+  },
+  {
+    "id": 208,
+    "title": "恋恋笔记本 / The Notebook",
+    "star": "8.5",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p483604864.jpg",
+    "intro": "爱情没有那么多借口，如果不能圆满，只能说明爱的不够。 ",
+    "actors": "导演:尼克·卡索维茨NickCassavetes主演:瑞恩·高斯林RyanGosling/...",
+    "detail": "2004/美国/剧情爱情"
+  },
+  {
+    "id": 209,
+    "title": "海边的曼彻斯特 / Manchester by the Sea",
+    "star": "8.6",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2421855655.jpg",
+    "intro": "我们都有权利不与自己的过去和解。",
+    "actors": "导演:肯尼斯·罗纳根KennethLonergan主演:卡西·阿弗莱克CaseyAffle...",
+    "detail": "2016/美国/剧情家庭"
+  },
+  {
+    "id": 210,
+    "title": "初恋这件小事 / สิ่งเล็กเล็กที่เรียกว่า...รัก",
+    "star": "8.5",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1505312273.jpg",
+    "intro": "黑小鸭速效美白记。",
+    "actors": "导演:普特鹏·普罗萨卡·那·萨克那卡林PuttipongPromsakaNaSakolnakorn/华森·波克彭...",
+    "detail": "2010/泰国/剧情喜剧爱情"
+  },
+  {
+    "id": 211,
+    "title": "人工智能 / Artificial Intelligence: AI",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792257137.jpg",
+    "intro": "对爱的执着，可以超越一切。",
+    "actors": "导演:史蒂文·斯皮尔伯格StevenSpielberg主演:海利·乔·奥斯蒙Haley...",
+    "detail": "2001/美国英国/剧情科幻"
+  },
+  {
+    "id": 212,
+    "title": "波西米亚狂想曲 / Bohemian Rhapsody",
+    "star": "8.6",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2549558913.jpg",
+    "intro": "",
+    "actors": "导演:布莱恩·辛格BryanSinger主演:拉米·马雷克RamiMalek/本·哈...",
+    "detail": "2018/英国美国/剧情传记同性音乐"
+  },
+  {
+    "id": 213,
+    "title": "虎口脱险 / La grande vadrouille",
+    "star": "8.9",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2399597512.jpg",
+    "intro": "永远看不腻的喜剧。",
+    "actors": "导演:杰拉尔·乌里GérardOury主演:路易·德·菲耐斯LouisdeFunès...",
+    "detail": "1966/法国英国/喜剧战争"
+  },
+  {
+    "id": 214,
+    "title": "青蛇",
+    "star": "8.6",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2570901292.jpg",
+    "intro": "人生如此，浮生如斯。谁人言，花彼岸，此生情长意短。谁都是不懂爱的罢了。",
+    "actors": "导演:徐克HarkTsui主演:张曼玉MaggieCheung/王祖贤JoeyWang/...",
+    "detail": "1993/中国香港中国大陆/剧情爱情奇幻古装"
+  },
+  {
+    "id": 215,
+    "title": "终结者2：审判日 / Terminator 2: Judgment Day",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910909085.jpg",
+    "intro": "少见的超越首部的续集，动作片中的经典。",
+    "actors": "导演:詹姆斯·卡梅隆JamesCameron主演:阿诺·施瓦辛格ArnoldSchwarz...",
+    "detail": "1991/美国法国/动作科幻"
+  },
+  {
+    "id": 216,
+    "title": "罗生门 / 羅生門",
+    "star": "8.8",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1598883511.jpg",
+    "intro": "人生的N种可能性。",
+    "actors": "导演:黑泽明AkiraKurosawa主演:三船敏郎ToshirôMifune/京町子...",
+    "detail": "1950/日本/剧情犯罪悬疑"
+  },
+  {
+    "id": 217,
+    "title": "疯狂的麦克斯4：狂暴之路 / Mad Max: Fury Road",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2236181653.jpg",
+    "intro": "“多么美好的一天！”轰轰轰砰咚，啪哒哒哒轰隆隆，磅~",
+    "actors": "导演:乔治·米勒GeorgeMiller主演:汤姆·哈迪TomHardy/查理兹·塞...",
+    "detail": "2015/澳大利亚美国/动作科幻冒险"
+  },
+  {
+    "id": 218,
+    "title": "萤火虫之墓 / 火垂るの墓",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2237136718.jpg",
+    "intro": "幸福是生生不息，却难以触及的远。 ",
+    "actors": "导演:高畑勋IsaoTakahata主演:辰己努/白石绫乃/志乃原良子",
+    "detail": "1988/日本/动画剧情战争"
+  },
+  {
+    "id": 219,
+    "title": "新龙门客栈 / 新龍門客棧",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1421018669.jpg",
+    "intro": "嬉笑怒骂，调风动月。",
+    "actors": "导演:李惠民RaymondLee主演:张曼玉MaggieCheung/林青霞Brigitte...",
+    "detail": "1992/中国香港中国大陆/动作爱情武侠古装"
+  },
+  {
+    "id": 220,
+    "title": "千钧一发 / Gattaca",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2195672555.jpg",
+    "intro": "一部能引人思考的科幻励志片。",
+    "actors": "导演:安德鲁·尼科尔AndrewNiccol主演:伊桑·霍克EthanHawke/乌玛...",
+    "detail": "1997/美国/剧情科幻惊悚"
+  },
+  {
+    "id": 221,
+    "title": "崖上的波妞 / 崖の上のポニョ",
+    "star": "8.6",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2627847859.jpg",
+    "intro": "",
+    "actors": "导演:宫崎骏HayaoMiyazaki主演:奈良柚莉爱YuriaNara/土井洋辉Hir...",
+    "detail": "2008/日本/动画奇幻冒险"
+  },
+  {
+    "id": 222,
+    "title": "无耻混蛋 / Inglourious Basterds",
+    "star": "8.6",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1086394013.jpg",
+    "intro": "昆汀同学越来越变态了，比北野武还杜琪峰。",
+    "actors": "导演:昆汀·塔伦蒂诺QuentinTarantino主演:布拉德·皮特BradPitt/...",
+    "detail": "2009/德国美国/剧情犯罪"
+  },
+  {
+    "id": 223,
+    "title": "末路狂花 / Thelma & Louise",
+    "star": "8.9",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910924635.jpg",
+    "intro": "没有了退路，只好飞向自由。",
+    "actors": "导演:雷德利·斯科特RidleyScott主演:吉娜·戴维斯GeenaDavis/苏...",
+    "detail": "1991/美国英国法国/犯罪剧情惊悚"
+  },
+  {
+    "id": 224,
+    "title": "奇迹男孩 / Wonder",
+    "star": "8.6",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507709428.jpg",
+    "intro": "世界不完美，爱会有奇迹。",
+    "actors": "导演:斯蒂芬·卓博斯基StephenChbosky主演:雅各布·特伦布莱JacobTr...",
+    "detail": "2017/美国中国香港/剧情儿童家庭"
+  },
+  {
+    "id": 225,
+    "title": "彗星来的那一夜 / Coherence",
+    "star": "8.6",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2187896734.jpg",
+    "intro": "小成本大魅力。",
+    "actors": "导演:詹姆斯·沃德·布柯特JamesWardByrkit主演:艾米丽·芭尔多尼Em...",
+    "detail": "2013/美国英国/科幻悬疑惊悚"
+  },
+  {
+    "id": 226,
+    "title": "二十二",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457609817.jpg",
+    "intro": "有一些东西不应该被遗忘。",
+    "actors": "导演:郭柯KeGuo主演:",
+    "detail": "2015/中国大陆/纪录片"
+  },
+  {
+    "id": 227,
+    "title": "黑客帝国2：重装上阵 / The Matrix Reloaded",
+    "star": "8.7",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443461390.jpg",
+    "intro": "一个精彩的世界观正在缓缓建立。",
+    "actors": "导演:拉娜·沃卓斯基LanaWachowski/莉莉·沃卓斯基LillyWachowski...",
+    "detail": "2003/美国/动作科幻"
+  },
+  {
+    "id": 228,
+    "title": "花束般的恋爱 / 花束みたいな恋をした",
+    "star": "8.6",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2868462052.jpg",
+    "intro": "",
+    "actors": "导演:土井裕泰NobuhiroDoi主演:菅田将晖MasakiSuda/有村架纯Kasu...",
+    "detail": "2021/日本/剧情爱情"
+  },
+  {
+    "id": 229,
+    "title": "爱乐之城 / La La Land",
+    "star": "8.4",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2395517414.jpg",
+    "intro": "",
+    "actors": "导演:达米恩·查泽雷DamienChazelle主演:瑞恩·高斯林RyanGosling/...",
+    "detail": "2016/美国/剧情爱情歌舞"
+  },
+  {
+    "id": 230,
+    "title": "血钻 / Blood Diamond",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1244017073.jpg",
+    "intro": "每个美丽事物背后都是滴血的现实。",
+    "actors": "导演:爱德华·兹威克EdwardZwick主演:莱昂纳多·迪卡普里奥Leonardo...",
+    "detail": "2006/美国德国英国/剧情惊悚冒险"
+  },
+  {
+    "id": 231,
+    "title": "房间 / Room",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2259715855.jpg",
+    "intro": "被偷走的岁月，被伤害的生命，被禁锢的灵魂，终将被希望和善意救赎。",
+    "actors": "导演:伦尼·阿伯拉罕森LennyAbrahamson主演:布丽·拉尔森BrieLarson...",
+    "detail": "2015/爱尔兰加拿大英国美国/剧情家庭"
+  },
+  {
+    "id": 232,
+    "title": "战争之王 / Lord of War",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p792282381.jpg",
+    "intro": "做一颗让别人需要你的棋子。",
+    "actors": "导演:安德鲁·尼科尔AndrewNiccol主演:尼古拉斯·凯奇NicolasCage/...",
+    "detail": "2005/法国德国美国/剧情犯罪"
+  },
+  {
+    "id": 233,
+    "title": "步履不停 / 歩いても 歩いても",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2375245718.jpg",
+    "intro": "日本的家庭电影已经是世界巅峰了，步履不停是巅峰中的佳作。",
+    "actors": "导演:是枝裕和HirokazuKoreeda主演:阿部宽HiroshiAbe/夏川结衣Yu...",
+    "detail": "2008/日本/剧情家庭"
+  },
+  {
+    "id": 234,
+    "title": "魂断蓝桥 / Waterloo Bridge",
+    "star": "8.8",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2351134499.jpg",
+    "intro": "中国式内在的美国电影。",
+    "actors": "导演:茂文·勒鲁瓦MervynLeRoy主演:费雯·丽VivienLeigh/罗伯特·...",
+    "detail": "1940/美国/剧情爱情战争"
+  },
+  {
+    "id": 235,
+    "title": "芙蓉镇",
+    "star": "9.3",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2174804034.jpg",
+    "intro": "",
+    "actors": "导演:谢晋JinXie主演:刘晓庆XiaoqingLiu/姜文WenJiang/郑在石...",
+    "detail": "1987/中国大陆/剧情爱情"
+  },
+  {
+    "id": 236,
+    "title": "火星救援 / The Martian",
+    "star": "8.5",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2280097442.jpg",
+    "intro": "",
+    "actors": "导演:雷德利·斯科特RidleyScott主演:马特·达蒙MattDamon/杰西卡...",
+    "detail": "2015/英国美国匈牙利约旦/剧情科幻冒险"
+  },
+  {
+    "id": 237,
+    "title": "哈利·波特与死亡圣器(上) / Harry Potter and the Deathly Hallows: Part 1",
+    "star": "8.5",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p719849995.jpg",
+    "intro": "最忠于原著的一部。",
+    "actors": "导演:大卫·叶茨DavidYates主演:丹尼尔·雷德克里夫DanielRadcliffe...",
+    "detail": "2010/英国美国/奇幻冒险"
+  },
+  {
+    "id": 238,
+    "title": "千年女优 / 千年女優",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2215102596.jpg",
+    "intro": "爱情是一场没有尽头的虚幻追逐。",
+    "actors": "导演:今敏SatoshiKon主演:庄司美代子MiyokoShôji/小山茉美Mam...",
+    "detail": "2001/日本/动画剧情爱情"
+  },
+  {
+    "id": 239,
+    "title": "谍影重重2 / The Bourne Supremacy",
+    "star": "8.7",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p667644866.jpg",
+    "intro": "谁说王家卫镜头很晃？",
+    "actors": "导演:保罗·格林格拉斯PaulGreengrass主演:马特·达蒙MattDamon/...",
+    "detail": "2004/美国德国/动作悬疑惊悚"
+  },
+  {
+    "id": 240,
+    "title": "阿飞正传 / 阿飛正傳",
+    "star": "8.5",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2525770523.jpg",
+    "intro": "王家卫是一种风格，张国荣是一个代表。",
+    "actors": "导演:王家卫KarWaiWong主演:张国荣LeslieCheung/张曼玉MaggieC...",
+    "detail": "1990/中国香港/犯罪剧情爱情"
+  },
+  {
+    "id": 241,
+    "title": "弱点 / The Blind Side",
+    "star": "8.7",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2577248102.jpg",
+    "intro": "拍掉身上的悲伤，从今天开始重新踏上追梦之旅。",
+    "actors": "导演:约翰·李·汉考克JohnLeeHancock主演:桑德拉·布洛克SandraBu...",
+    "detail": "2009/美国/剧情家庭传记运动"
+  },
+  {
+    "id": 242,
+    "title": "燃情岁月 / Legends of the Fall",
+    "star": "8.8",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2797313535.jpg",
+    "intro": "传奇，不是每个人都可以拥有。",
+    "actors": "导演:爱德华·兹威克EdwardZwick主演:布拉德·皮特BradPitt/安东...",
+    "detail": "1994/美国/剧情爱情战争西部"
+  },
+  {
+    "id": 243,
+    "title": "谍影重重 / The Bourne Identity",
+    "star": "8.6",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1597183981.jpg",
+    "intro": "哗啦啦啦啦，天在下雨，哗啦啦啦啦，云在哭泣……找自己。",
+    "actors": "导演:道格·里曼DougLiman主演:马特·达蒙MattDamon/弗兰卡·波坦...",
+    "detail": "2002/美国德国捷克/动作悬疑惊悚"
+  },
+  {
+    "id": 244,
+    "title": "朗读者 / The Reader",
+    "star": "8.6",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1140984198.jpg",
+    "intro": "当爱情跨越年龄的界限，它似乎能变得更久远一点，成为一种责任，一种水到渠成的相濡以沫。 ",
+    "actors": "导演:史蒂芬·戴德利StephenDaldry主演:凯特·温丝莱特KateWinslet...",
+    "detail": "2008/美国德国/剧情爱情"
+  },
+  {
+    "id": 245,
+    "title": "再次出发之纽约遇见你 / Begin Again",
+    "star": "8.6",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2250287733.jpg",
+    "intro": "爱我就给我看你的播放列表。",
+    "actors": "导演:约翰·卡尼JohnCarney主演:凯拉·奈特莉KeiraKnightley/马克...",
+    "detail": "2013/美国/喜剧爱情音乐"
+  },
+  {
+    "id": 246,
+    "title": "白日梦想家 / The Secret Life of Walter Mitty",
+    "star": "8.6",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2160195181.jpg",
+    "intro": "",
+    "actors": "导演:本·斯蒂勒BenStiller主演:本·斯蒂勒BenStiller/克里斯汀·...",
+    "detail": "2013/美国英国/剧情喜剧冒险"
+  },
+  {
+    "id": 247,
+    "title": "哈利·波特与凤凰社 / Harry Potter and the Order of the Phoenix",
+    "star": "8.5",
+    "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443403700.jpg",
+    "intro": "",
+    "actors": "导演:大卫·叶茨DavidYates主演:丹尼尔·雷德克里夫DanielRadcliffe...",
+    "detail": "2007/英国美国/奇幻冒险"
+  },
+  {
+    "id": 248,
+    "title": "香水 / Perfume: The Story of a Murderer",
+    "star": "8.5",
+    "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2571500223.jpg",
+    "intro": "一个单凭体香达到高潮的男人。",
+    "actors": "导演:汤姆·提克威TomTykwer主演:本·卫肖BenWhishaw/艾伦·瑞克...",
+    "detail": "2006/德国法国西班牙美国比利时/剧情犯罪奇幻"
+  },
+  {
+    "id": 249,
+    "title": "穿越时空的少女 / 時をかける少女",
+    "star": "8.6",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2079334286.jpg",
+    "intro": "爱上未来的你。 ",
+    "actors": "导演:细田守MamoruHosoda主演:仲里依纱RiisaNaka/石田卓也Takuya...",
+    "detail": "2006/日本/剧情爱情科幻动画"
+  },
+  {
+    "id": 250,
+    "title": "海洋 / Océans",
+    "star": "9.1",
+    "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2559581324.jpg",
+    "intro": "大海啊，不全是水。",
+    "actors": "导演:雅克·贝汉JacquesPerrin/雅克·克鲁奥德JacquesCluzaud主演:...",
+    "detail": "2009/法国瑞士西班牙美国阿联酋摩纳哥/纪录片"
+  }
+]
